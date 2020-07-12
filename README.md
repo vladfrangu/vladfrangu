@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Vlad Frangu, a full-stack developer from Bucharest! :sparkles: I'm a very fast learner in most programming languages; with focus on: [TypeScript](typescript) (and JavaScript :eyes:), [Kotlin](kotlin), [Rust](rustlang), [Vue](vue) (and possibly [React](react)), with TSX, of course :smile:
+I'm Vlad Frangu, a full-stack developer from Bucharest! :sparkles: I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript :eyes:), [`Kotlin`], [`Rust`], [`Vue`] (and possibly [`React`]), with TSX, of course :smile:
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first
@@ -20,28 +20,28 @@ I tend to pick up a lot of projects as time passes, mainly due to wanting to hel
 
 However, here's a quick run down of some of the projects I'm working on / some of the teams I'm working in:
 
-- :robot: [GAwesomeBot](gab) - a super customizable [Discord](discord) that brings fun, utilities and many other things right in your sever!
-- :robot: [Auttaja](auttaja) - a super powerful [Discord](discord) moderation bot to keep your server in check
-- :rainbow_flag: [pfp.lgbt](pfplgbt) - a simple UI to add pride flags to your images or GIFs
-- 👯 [DumbDogDiner](ddd) - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them :thumbs_up:)
-- 👯 [GayGeeks](gg) - a team building custom bots and tools to enhance the GayGeeks [Discord](discord) server experience
+- :robot: [`GAwesomeBot`] - a super customizable [`Discord`] that brings fun, utilities and many other things right in your sever!
+- :robot: [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
+- :rainbow_flag: [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
+- 👯 [`DumbDogDiner`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them :thumbs_up:)
+- 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the GayGeeks [`Discord`] server experience
 
-And many, many more things you can see by exploring [my repositories](myrepos)
+And many, many more things you can see by exploring [`my repositories`]
 
 
 <!----------------- LINKS --------------->
-[`typescript`]: https://www.typescriptlang.org/
-[`kotlin`]:     https://kotlinlang.org/
-[`rustlang`]:   https://www.rust-lang.org/
-[`vue`]:        https://vuejs.org/
-[`react`]:      https://reactjs.org/
-[`discord`]:    https://discord.com/
-[`pfplgbt`]:    https://pfp.lgbt/
-[`myrepos`]:    https://github.com/vladfrangu?tab=repositories
+[`TypeScript`]:         https://www.typescriptlang.org/
+[`Kotlin`]:             https://kotlinlang.org/
+[`Rust`]:               https://www.rust-lang.org/
+[`Vue`]:                https://vuejs.org/
+[`React`]:              https://reactjs.org/
+[`Discord`]:            https://discord.com/
+[`pfp.lgbt`]:           https://pfp.lgbt/
+[`my repositories`]:    https://github.com/vladfrangu?tab=repositories
 
 <!--------------- Teams ----------------->
 
-[`gab`]:     https://github.com/GAwesomeBot
-[`auttaja`]: https://github.com/auttaja
-[`ddd`]:     https://github.com/DumbDogDiner
-[`gg`]:      https://gaygeeks.gg/
+[`GAwesomeBot`]:     https://github.com/GAwesomeBot
+[`Auttaja`]: https://github.com/auttaja
+[`DumbDogDiner`]:     https://github.com/DumbDogDiner
+[`Gay Geeks`]:      https://gaygeeks.gg/
