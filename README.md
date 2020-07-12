@@ -26,7 +26,7 @@ However, here's a quick run down of some of the projects I'm working on / some o
 - 👯 [`DumbDogDiner`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them :thumbs_up:)
 - 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the GayGeeks [`Discord`] server experience
 
-And many, many more things you can see by exploring [`my repositories`]
+And many, many more things you can see by exploring [`my repositories`]!
 
 
 <!----------------- LINKS --------------->
