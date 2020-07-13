@@ -7,7 +7,7 @@ I'm Vlad Frangu, a full-stack developer from Bucharest! :sparkles: I'm a very fa
 
 #### 📫 How to reach me
 
-You can reach me out on a multitude of platforms!
+You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-discord.svg" width="24px" align="center">: Vladdy#0002
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-twitter.svg" width="20px" align="center"> : WolfgalVlad
