@@ -9,10 +9,10 @@ I'm Vlad Frangu, a full-stack developer from Bucharest! :sparkles: I'm a very fa
 
 You can reach me out on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-discord.svg" width="24px" align="center"> : Vladdy#0002
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-discord.svg" width="24px" align="center">: Vladdy#0002
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-twitter.svg" width="20px" align="center"> : WolfgalVlad
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-telegram.svg" width="20px" align="center"> : WolfgalVlad
-- 📧: kingdgrizzle@gmail.com OR vlad@gawesome.bot
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-gmail.svg" width="20px" align="center"> : kingdgrizzle@gmail.com OR vlad@gawesome.bot
 
 #### 🔭 Projects
 
