@@ -30,18 +30,21 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 #### 👀 Quick Statistics
 
-![Image stats by https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&hide_rank=true&hide=["commits"])
+![Image stats by https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true&hide_rank=true&hide=["commits"]&icon_color=4F8CC9)
+
+> Provided by [`GitHub Readme Stats`]
 
 
 <!----------------- LINKS --------------->
-[`TypeScript`]:         https://www.typescriptlang.org/
-[`Kotlin`]:             https://kotlinlang.org/
-[`Rust`]:               https://www.rust-lang.org/
-[`Vue`]:                https://vuejs.org/
-[`React`]:              https://reactjs.org/
-[`Discord`]:            https://discord.com/
-[`pfp.lgbt`]:           https://pfp.lgbt/
-[`my repositories`]:    https://github.com/vladfrangu?tab=repositories
+[`TypeScript`]:          https://www.typescriptlang.org/
+[`Kotlin`]:              https://kotlinlang.org/
+[`Rust`]:                https://www.rust-lang.org/
+[`Vue`]:                 https://vuejs.org/
+[`React`]:               https://reactjs.org/
+[`Discord`]:             https://discord.com/
+[`pfp.lgbt`]:            https://pfp.lgbt/
+[`my repositories`]:     https://github.com/vladfrangu?tab=repositories
+[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 
 <!--------------- Teams ----------------->
 
