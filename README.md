@@ -33,6 +33,7 @@ And many, many more things you can see by exploring [`my repositories`]!
 ![Image stats by https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true)
 
 > Provided by [`GitHub Readme Stats`]
+>
 > *Total commits may be inaccurate*
 
 
