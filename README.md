@@ -10,8 +10,8 @@ I'm Vlad Frangu, a full-stack developer from Bucharest! :sparkles: I'm a very fa
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-discord.svg" width="24px" align="center">: Vladdy#0002
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-twitter.svg" width="20px" align="center"> : WolfgalVlad
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-telegram.svg" width="20px" align="center"> : WolfgalVlad
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-twitter.svg" width="20px" align="center"> : [`WolfgalVlad`][Twitter]
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-telegram.svg" width="20px" align="center"> : [`WolfgalVlad`][Telegram]
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-gmail.svg" width="20px" align="center"> : kingdgrizzle@gmail.com OR vlad@gawesome.bot
 
 #### 🔭 Projects
@@ -47,6 +47,8 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`pfp.lgbt`]:            https://pfp.lgbt/
 [`my repositories`]:     https://github.com/vladfrangu?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[Twitter]:               https://twitter.com/WolfgalVlad
+[Telegram]:              https://t.me/WolfgalVlad
 
 <!--------------- Teams ----------------->
 
