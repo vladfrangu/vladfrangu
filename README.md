@@ -42,8 +42,6 @@ And many, many more things you can see by exploring [`my repositories`]!
 </table>
 
 > Provided by [`GitHub Readme Stats`]
->
-> *Total commits may be inaccurate*
 
 
 <!----------------- LINKS --------------->
