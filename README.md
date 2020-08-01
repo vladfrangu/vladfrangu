@@ -30,8 +30,16 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 #### 👀 Quick Statistics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic">
+<table>
+  <tr>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic" />
+    </td>
+  </tr>
+</table>
 
 > Provided by [`GitHub Readme Stats`]
 >
