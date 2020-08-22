@@ -25,6 +25,8 @@ However, here's a quick run down of some of the projects I'm working on / some o
 - :rainbow_flag: [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
 - 👯 [`DumbDogDiner`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them :thumbs_up:)
 - 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the GayGeeks [`Discord`] server experience
+- 👯 [`Discord.JS`] - a powerful Node.JS library for interacting with Discord's API
+- 👯 [`Sapphire`] - an extremely flexible set of utilities to aid you with writing Discord Bots
 
 And many, many more things you can see by exploring [`my repositories`]!
 
@@ -56,10 +58,12 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [Twitter]:               https://twitter.com/WolfgalVlad
 [Telegram]:              https://t.me/WolfgalVlad
+[`Discord.JS`]:          https://github.com/discordjs
+[`Sapphire`]:            https://github.com/sapphire-project
 
 <!--------------- Teams ----------------->
 
-[`GAwesomeBot`]:     https://github.com/GAwesomeBot
-[`Auttaja`]: https://github.com/auttaja
-[`DumbDogDiner`]:     https://github.com/DumbDogDiner
-[`Gay Geeks`]:      https://gaygeeks.gg/
+[`GAwesomeBot`]:  https://github.com/GAwesomeBot
+[`Auttaja`]:      https://github.com/auttaja
+[`DumbDogDiner`]: https://github.com/DumbDogDiner
+[`Gay Geeks`]:    https://gaygeeks.gg/
