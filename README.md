@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I'm Vlad Frangu, a full-stack developer from Bucharest! :sparkles: I'm a very fast learner in most programming languages; with focus on: [`TypeScript`] (and JavaScript :eyes:), [`Kotlin`], [`Rust`], [`Vue`] (and possibly [`React`]), with TSX, of course :smile:
+I'm Vlad Frangu, a full-stack developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript :eyes:), [`Kotlin`] (and [`Java`]), [`Rust`], [`Vue`] (and possibly [`React`]; with TSX, of course) :smile:
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first
+- 👀 I have a love-hate relationship with some languages (like [`Go`]); I can understand the source code, but I cannot write in the language right now
 
 #### 📫 How to reach me
 
@@ -34,11 +35,11 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 <table>
   <tr>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
-    <td align="center">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic" />
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,discord.js-next,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;DumbDogDiner/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphire-project/utilities,framework,pieces,plugins;skyra-project/skyra,char" />
     </td>
   </tr>
 </table>
@@ -49,7 +50,10 @@ And many, many more things you can see by exploring [`my repositories`]!
 <!----------------- LINKS --------------->
 [`TypeScript`]:          https://www.typescriptlang.org/
 [`Kotlin`]:              https://kotlinlang.org/
+ <!-- I'm sorry for linking java to that site, but there is no better one that I know of.. -->
+[`Java`]:                https://java.com/
 [`Rust`]:                https://www.rust-lang.org/
+[`Go`]:                  https://golang.org
 [`Vue`]:                 https://vuejs.org/
 [`React`]:               https://reactjs.org/
 [`Discord`]:             https://discord.com/
@@ -58,8 +62,6 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [Twitter]:               https://twitter.com/WolfgalVlad
 [Telegram]:              https://t.me/WolfgalVlad
-[`Discord.JS`]:          https://github.com/discordjs
-[`Sapphire`]:            https://github.com/sapphire-project
 
 <!--------------- Teams ----------------->
 
@@ -67,3 +69,5 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`Auttaja`]:      https://github.com/auttaja
 [`DumbDogDiner`]: https://github.com/DumbDogDiner
 [`Gay Geeks`]:    https://gaygeeks.gg/
+[`Discord.JS`]:   https://github.com/discordjs
+[`Sapphire`]:     https://github.com/sapphire-project
