@@ -46,6 +46,8 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 > Provided by [`GitHub Readme Stats`]
 
+<img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" />
+
 
 <!----------------- LINKS --------------->
 [`TypeScript`]:          https://www.typescriptlang.org/
