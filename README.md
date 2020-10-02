@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" align="center" />
 
 I'm Vlad Frangu, a full-stack developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript :eyes:), [`Kotlin`] (and [`Java`]), [`Rust`], [`Vue`] (and possibly [`React`]; with TSX, of course) :smile:
 
-- 😄 Pronouns: anything you want, as long as it isn't offensive to anyone
-- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first
-- 👀 I have a love-hate relationship with some languages (like [`Go`]); I can understand the source code, but I cannot write in the language right now
+- 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
+- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried doing it myself first :sweat_smile:
+- 👀 I have a love-hate relationship with some languages (like [`Go`]); I can read and understand the source code, but I cannot write in the language right now
 
 #### 📫 How to reach me
 
@@ -21,11 +21,11 @@ I tend to pick up a lot of projects as time passes, mainly due to wanting to hel
 
 However, here's a quick run down of some of the projects I'm working on / some of the teams I'm working in:
 
-- :robot: [`GAwesomeBot`] - a super customizable [`Discord`] that brings fun, utilities and many other things right in your sever!
+- :robot: [`GAwesomeBot`] - a super customizable [`Discord`] bot that brings fun, utilities and many other things right in your sever!
 - :robot: [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
 - :rainbow_flag: [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
 - 👯 [`DumbDogDiner`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them :thumbs_up:)
-- 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the GayGeeks [`Discord`] server experience
+- 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
 - 👯 [`Discord.JS`] - a powerful Node.JS library for interacting with Discord's API
 - 👯 [`Sapphire`] - an extremely flexible set of utilities to aid you with writing Discord Bots
 
@@ -45,8 +45,6 @@ And many, many more things you can see by exploring [`my repositories`]!
 </table>
 
 > Provided by [`GitHub Readme Stats`]
-
-<img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" />
 
 
 <!----------------- LINKS --------------->
