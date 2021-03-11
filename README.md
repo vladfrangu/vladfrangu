@@ -1,6 +1,6 @@
 # Hi there, I'm Vlad Frangu! 👋 <img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" align="center" />
 
-I'm a full-stack developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript :eyes:), [`Kotlin`] (and [`Java`]), [`Vue`] (and a bit of [`React`]; with TSX, of course), a bit of [`Rust`], and [`C#`] :smile:
+I'm a full-stack developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript :eyes:), [`Kotlin`] (and [`Java`]), [`Vue`] & [`React`] (with TSX, of course), a bit of [`Rust`], and [`C#`] :smile:
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
 - ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried doing it myself first :sweat_smile:
