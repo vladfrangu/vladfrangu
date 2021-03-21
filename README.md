@@ -22,10 +22,10 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 
 You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-discord.svg" width="24px" align="center">: Vladdy#0002
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-twitter.svg" width="20px" align="center"> : [`WolfgalVlad`][Twitter]
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-telegram.svg" width="20px" align="center"> : [`WolfgalVlad`][Telegram]
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/logo-gmail.svg" width="20px" align="center"> : kingdgrizzle@gmail.com OR vlad@gawesome.bot
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: Vladdy#0002
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : kingdgrizzle@gmail.com OR vlad@gawesome.bot
 
 ## 🔭 Projects
 
