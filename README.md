@@ -33,9 +33,9 @@ I tend to pick up a lot of projects as time passes, mainly due to wanting to hel
 
 However, here's a quick run down of some of the projects I'm working on / some of the teams I'm working in:
 
-- :robot: [`GAwesomeBot`] - a super customizable [`Discord`] bot that brings fun, utilities and many other things right in your sever!
-- :robot: [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
-- :rainbow_flag: [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
+- 🤖 [`GAwesomeBot`] - a super customizable [`Discord`] bot that brings fun, utilities and many other things right in your sever!
+- 🤖 [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
+- 🏳️‍🌈 [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
 - 👯 [`DumbDogDiner`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them 👍)
 - 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
 - 👯 [`Discord.JS`] - a powerful Node.JS library for interacting with Discord's API
