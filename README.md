@@ -2,9 +2,9 @@
 
 I'm a Full Stack Developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀), [`Kotlin`] (and [`Java`]), [`Vue`] & [`React`] (with TSX, of course), [`C#`] and a bit of [`Rust`] 😄
 
-- 😄  Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
-- ⚡  Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried doing it myself first 😅
-- 👀  I have an interesting relationship with some languages (like [`Go`]); I can read and understand the source code and what it does, but I cannot write in the language at this time
+- 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
+- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried doing it myself first 😅
+- 👀 I have an interesting relationship with some languages (like [`Go`]); I can read and understand the source code and what it does, but I cannot write in the language at this time
 
 ## 📚 Experience
 
@@ -51,7 +51,7 @@ And many, many more things you can see by exploring [`my repositories`]!
       <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,discord.js-next,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;DumbDogDiner/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphire-community/utilities,framework,pieces,plugins;skyra-project/skyra,char" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,discord.js-next,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;DumbDogDiner/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins;skyra-project/skyra,char" />
     </td>
   </tr>
 </table>
