@@ -83,4 +83,4 @@ And many, many more things you can see by exploring [`my repositories`]!
 [`DumbDogDiner`]: https://github.com/DumbDogDiner
 [`Gay Geeks`]:    https://gaygeeks.gg/
 [`Discord.JS`]:   https://github.com/discordjs
-[`Sapphire`]:     https://github.com/sapphire-project
+[`Sapphire`]:     https://github.com/sapphiredev
