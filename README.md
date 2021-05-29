@@ -13,8 +13,8 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 ### Key Notes ✍️
 
 - Self taught, full stack developer
-- Started coding in **2016**, at the age of **14**
-- Over 5 years of experience with **JavaScript** and over 3 with **[`TypeScript`]**
+- Started coding in **2016**
+- Over 5 years of experience with **JavaScript** and over 4 with **[`TypeScript`]**
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
@@ -22,10 +22,10 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 
 You can reach out to me on a multitude of platforms!
 
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: Vladdy#0002
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : kingdgrizzle@gmail.com OR vlad@gawesome.bot
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Vladdy#0002`](https://discord.com/users/139836912335716352)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
 
 ## 🔭 Projects
 
