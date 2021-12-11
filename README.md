@@ -1,14 +1,14 @@
 # Hi there, I'm Vlad Frangu! 👋  <img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" align="center" />
 
-I'm a Full Stack Developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀), [`Kotlin`] (and [`Java`]), [`Vue`] & [`React`] (with TSX, of course), [`C#`] and a bit of [`Rust`] 😄
+I'm a Full Stack Developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
-- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, NOT by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried doing it myself first 😅
+- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring it out myself first 😅
 - 👀 I have an interesting relationship with some languages (like [`Go`]); I can read and understand the source code and what it does, but I cannot write in the language at this time
 
 ## 📚 Experience
 
-I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started coding around **September of 2016**, with [`Java`], although not actively. Since **January of 2017**, I started being far more active in coding, and moved to JavaScript as my main language. I then moved to [`TypeScript`] around 2018 (due to it's better coding experience), which is what I use daily now. In 2019, I started using other languages (such as [`Rust`] or [`Kotlin`]), and in 2020, I started looking more into [`C#`].
+I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started coding around **September of 2016**, with [`Java`], although not actively. Since **January of 2017**, I started being far more active in coding, and moved to JavaScript as my main language. I then moved to [`TypeScript`] around 2018 (thanks to it's better coding experience), which is what I use daily now. In 2019, I started experimenting with other languages (such as [`Rust`] or [`Kotlin`]), and in 2020, I started looking more into [`C#`].
 
 ### Key Notes ✍️
 
