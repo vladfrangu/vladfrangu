@@ -36,7 +36,7 @@ However, here's a quick run down of some of the projects I'm working on / some o
 - 🤖 [`GAwesomeBot`] - a super customizable [`Discord`] bot that brings fun, utilities and many other things right in your sever!
 - 🤖 [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
 - 🏳️‍🌈 [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
-- 👯 [`DumbDogDiner`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them 👍)
+- 👯 [`SolteraGG`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them 👍)
 - 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
 - 👯 [`Discord.JS`] - a powerful Node.JS library for interacting with Discord's API
 - 👯 [`Sapphire`] - an extremely flexible set of utilities to aid you with writing Discord Bots
@@ -51,7 +51,7 @@ And many, many more things you can see by exploring [`my repositories`]!
       <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,discord.js-modules,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;DumbDogDiner/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-js,apify-client-js" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,discord.js-modules,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-js,apify-client-js,apify-ts" />
     </td>
   </tr>
 </table>
@@ -79,7 +79,7 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 [`GAwesomeBot`]:  https://github.com/GAwesomeBot
 [`Auttaja`]:      https://github.com/auttaja
-[`DumbDogDiner`]: https://github.com/DumbDogDiner
+[`SolteraGG`]:    https://github.com/SolteraGG
 [`Gay Geeks`]:    https://gaygeeks.gg/
 [`Discord.JS`]:   https://github.com/discordjs
 [`Sapphire`]:     https://github.com/sapphiredev
