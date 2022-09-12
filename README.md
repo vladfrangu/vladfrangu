@@ -3,18 +3,18 @@
 I'm a Full Stack Developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
 
 - 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
-- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it first. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring it out myself first 😅
-- 👀 I have an interesting relationship with some languages (like [`Go`]); I can read and understand the source code and what it does, but I cannot write in the language at this time
+- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
+- 👀 I have an interesting relationship with some languages (like [`Go`]); while I can understand the code and how it works, I am much slower at writing it compared to languages I'm more comfortable with (like [`TypeScript`])
 
 ## 📚 Experience
 
-I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started coding around **September of 2016**, with [`Java`], although not actively. Since **January of 2017**, I started being far more active in coding, and moved to JavaScript as my main language. I then moved to [`TypeScript`] around 2018 (thanks to it's better coding experience), which is what I use daily now. In 2019, I started experimenting with other languages (such as [`Rust`] or [`Kotlin`]), and in 2020, I started looking more into [`C#`].
+I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started experimenting with coding around **September of 2016** in the [`Java`] programming language. Since **January of 2017**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to it's much better coding experience), which is what I use daily now. I've also experimented with other languages (such as [`Rust`], [`Kotlin`], [`C#`] or [`Go`]), but so far my language of choice is still [`TypeScript`].
 
 ### Key Notes ✍️
 
 - Self taught, full stack developer
 - Started coding in **2016**
-- Over 5 years of experience with **JavaScript** and over 4 with **[`TypeScript`]**
+- Over 6 years of experience with **JavaScript** and over 5 with **[`TypeScript`]**
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
@@ -23,25 +23,22 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : kingdgrizzle@gmail.com OR vlad@sapphirejs.dev
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Vladdy#0002`](https://discord.com/users/139836912335716352)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
 
 ## 🔭 Projects
 
-I tend to pick up a lot of projects as time passes, mainly due to wanting to help others :sweat_smile:
+Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
 
-However, here's a quick run down of some of the projects I'm working on / some of the teams I'm working in:
-
-- 🤖 [`GAwesomeBot`] - a super customizable [`Discord`] bot that brings fun, utilities and many other things right in your sever!
-- 🤖 [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
-- 🏳️‍🌈 [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
-- 👯 [`SolteraGG`] - a team building Minecraft plugins for our own Minecraft server (or yours if you want to use them 👍)
-- 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
-- 👯 [`Discord.JS`] - a powerful Node.JS library for interacting with Discord's API
+- 👯 [`discord.js`] - a powerful node.js library for interacting with Discord's API
 - 👯 [`Sapphire`] - an extremely flexible set of utilities to aid you with writing Discord Bots
+- 🏳️‍🌈 [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
+- 🤖 [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
+- 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
 
-And many, many more things you can see by exploring [`my repositories`]!
+> I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:
+> You can see more by exploring [`my repositories`]
 
 ### 👀 Quick Statistics
 
@@ -51,7 +48,7 @@ And many, many more things you can see by exploring [`my repositories`]!
       <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,discord.js-modules,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-js,apify-client-js,apify-ts" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
     </td>
   </tr>
 </table>
@@ -77,9 +74,7 @@ And many, many more things you can see by exploring [`my repositories`]!
 
 <!--------------- Teams ----------------->
 
-[`GAwesomeBot`]:  https://github.com/GAwesomeBot
 [`Auttaja`]:      https://github.com/auttaja
-[`SolteraGG`]:    https://github.com/SolteraGG
 [`Gay Geeks`]:    https://gaygeeks.gg/
-[`Discord.JS`]:   https://github.com/discordjs
+[`discord.js`]:   https://github.com/discordjs
 [`Sapphire`]:     https://github.com/sapphiredev
