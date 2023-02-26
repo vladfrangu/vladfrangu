@@ -8,13 +8,13 @@ I'm a Full Stack Developer from Bucharest! ✨ I'm a very fast learner in most p
 
 ## 📚 Experience
 
-I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started experimenting with coding around **September of 2016** in the [`Java`] programming language. Since **January of 2017**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to it's much better coding experience), which is what I use daily now. I've also experimented with other languages (such as [`Rust`], [`Kotlin`], [`C#`] or [`Go`]), but so far my language of choice is still [`TypeScript`].
+I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started experimenting with coding around **September of 2016** in the [`Java`] programming language. Since **January of 2017**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now. I've also experimented with other languages (such as [`Rust`], [`Kotlin`], [`C#`] or [`Go`]), but so far my language of choice is still [`TypeScript`].
 
 ### Key Notes ✍️
 
 - Self taught, full stack developer
 - Started coding in **2016**
-- Over 6 years of experience with **JavaScript** and over 5 with **[`TypeScript`]**
+- Over 7 years of experience with **JavaScript** and over 6 with **[`TypeScript`]**
 - Willing to learn new things all the time, and work in teams 😄
 - Always down to chat! Contact me on one of the platforms down below!
 
