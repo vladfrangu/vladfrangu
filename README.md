@@ -23,7 +23,7 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : kingdgrizzle@gmail.com OR vlad@sapphirejs.dev
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`Vladdy#0002`](https://discord.com/users/139836912335716352)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`@vladdy`](https://discord.com/users/139836912335716352)
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-twitter.png" align="center"> : [`WolfgalVlad`][Twitter]
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
 
