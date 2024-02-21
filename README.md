@@ -23,7 +23,7 @@ I'm a self taught, full stack developer, that went head first into coding and fe
 You can reach out to me on a multitude of platforms!
 
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : me@vladfrangu.dev
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`@vladdy`](https://discord.com/users/139836912335716352)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`@vladdy`](https://discord.gg/2p4j75jM9W)
 - <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
 
 ## 🔭 Projects
