@@ -1,79 +1,78 @@
-# Hi there, I'm Vlad Frangu! 👋  <img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="" align="center" />
+# Hi there, I'm Vlad Frangu! 👋 <img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="Profile views" align="center" />
 
-I'm a Backend-focused Developer from Bucharest! ✨ I'm a very fast learner in most programming languages and an open-source software creator; with focus on: [`TypeScript`] (and JavaScript 👀) & [`Vue`] & [`React`] (with TSX, of course). I've also experimented with [`Kotlin`] (and [`Java`]), [`C#`] and a bit of [`Rust`] 😄
+I'm a backend-focused software engineer and open-source maintainer based in Romania. I spend most of my time building APIs, developer tooling, and libraries with [`TypeScript`] and [`Node.js`], occasionally reaching for [`React`] or [`Vue`] when a project needs a UI.
 
-- 😄 Pronouns: anything you want, as long as it isn't offensive to anyone. He, she, they, doesn't matter to me
-- ⚡ Fun fact: I learn the fastest by diving head first into a problem / new thing, and if that doesn't work, by researching it. While counter intuitive, this has helped me get started with the world of programming! Nowadays, I do research, but after I tried figuring out the solution by myself 😅
-- 👀 I have an interesting relationship with some languages (like [`Go`]); while I can understand the code and how it works, I am much slower at writing it compared to languages I'm more comfortable with (like [`TypeScript`])
+- 🛠️ I enjoy solving infrastructure, tooling, and API design problems
+- 🌱 I'm currently exploring [`Rust`] while keeping an eye on the wider systems ecosystem
+- ⚡ I learn best by diving into a problem, building something, and researching the sharp edges along the way
+- 😄 Any pronouns are fine, as long as they're used respectfully
 
 ## 📚 Experience
 
-I'm a self taught, full stack developer, that went head first into coding and fell in love from the first lines of code I've written! Started experimenting with coding around **September of 2016** in the [`Java`] programming language. Since **January of 2017**, I switched to JavaScript as my main language, and shortly after moved to [`TypeScript`] (thanks to its much better coding experience), which is what I use daily now. I've also experimented with other languages (such as [`Rust`], [`Kotlin`], [`C#`] or [`Go`]), but so far my language of choice is still [`TypeScript`].
+I started programming in **2016** with [`Java`], moved to JavaScript in **2017**, and shortly after made [`TypeScript`] my daily language. Since then, I've worked across backend systems, web applications, developer experience, and open-source maintenance.
 
-### Key Notes ✍️
+Today, my work is mostly centered around the Node.js ecosystem: designing reliable APIs, maintaining widely used packages, improving developer workflows, and reviewing the details that keep projects healthy over time.
 
-- Self taught, full stack developer
-- Started coding in **2016**
-- Over 7 years of experience with **JavaScript** and over 6 with **[`TypeScript`]**
-- Willing to learn new things all the time, and work in teams 😄
-- Always down to chat! Contact me on one of the platforms down below!
+### Key notes ✍️
+
+- Self-taught software engineer, building software since **2016**
+- Backend-focused, with full-stack experience when a project calls for it
+- Most at home with **TypeScript**, **Node.js**, APIs, and developer tooling
+- Active open-source contributor and maintainer
+- Always happy to learn, collaborate, and talk shop
 
 ## 📫 How to reach me
 
-You can reach out to me on a multitude of platforms!
-
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-gmail.png" align="center"> : me@vladfrangu.dev
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-discord.png" align="center">: [`@vladdy`](https://discord.gg/2p4j75jM9W)
-- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/master/assets/logo-telegram.png" align="center"> : [`WolfgalVlad`][Telegram]
+- <img src="./assets/logo-gmail.png" align="center" alt="Email"> [me@vladfrangu.dev](mailto:me@vladfrangu.dev)
+- <img src="./assets/logo-discord.png" align="center" alt="Discord"> [`@vladdy`](https://discord.gg/2p4j75jM9W)
+- <img src="./assets/logo-telegram.png" align="center" alt="Telegram"> [`WolfgalVlad`][Telegram]
 
 ## 🔭 Projects
 
-Here's a quick run down of some of the projects I'm working on / some of the teams I'm working with:
+A few projects and communities I spend time on:
 
-- 👯 [`discord.js`] - a powerful node.js library for interacting with Discord's API
-- 👯 [`Sapphire`] - an extremely flexible set of utilities to aid you with writing Discord Bots
-- 🏳️‍🌈 [`pfp.lgbt`] - a simple UI to add pride flags to your images or GIFs
-- 🤖 [`Auttaja`] - a super powerful [`Discord`] moderation bot to keep your server in check
-- 👯 [`Gay Geeks`] - a team building custom bots and tools to enhance the Gay Geeks [`Discord`] server experience
+- 👯 [`discord.js`] — a powerful TypeScript library for interacting with the Discord API
+- 🧩 [`Discord API Types`] — versioned, up-to-date typings for the Discord API
+- 💎 [`Sapphire`] — a collection of libraries and a framework for building Discord applications
+- 🏳️‍🌈 [`pfp.lgbt`] — a simple tool for adding pride flags to images and GIFs
+- 🤖 Community bots — custom Discord bots and tooling for communities including NASCAR and VALORANT LFG
+- ⚡ [`async_event_emitter`] — a portable event emitter with first-class async support
+- ✏️ [`highlight`] — a Discord bot that notifies you when chosen words or expressions are mentioned
 
-> I tend to pick up a lot of projects as time passes, so this list is not exhaustive! :sweat_smile:
-> You can see more by exploring [`my repositories`]
+> This is only a snapshot. You can find more in [`my repositories`].
 
-### 👀 Quick Statistics
+### 👀 Quick statistics
 
 <table>
   <tr>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./profile/stats.svg" />
+    <td align="center" style="padding: 0; width: 50%;">
+      <img align="center" style="padding: 0;" src="./profile/stats.svg" alt="Vlad's GitHub statistics" />
     </td>
-    <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="./profile/top-langs.svg" />
+    <td align="center" style="padding: 0; width: 50%;">
+      <img align="center" style="padding: 0;" src="./profile/top-langs.svg" alt="Vlad's most used languages" />
     </td>
   </tr>
 </table>
 
-> Provided by [`GitHub Readme Stats`]
+> Provided by [`GitHub Readme Stats`].
 
+<!----------------- LINKS ----------------->
 
-<!----------------- LINKS --------------->
-[`TypeScript`]:          https://www.typescriptlang.org/
-[`Kotlin`]:              https://kotlinlang.org/
-[`Java`]:                https://adoptopenjdk.net/
-[`Rust`]:                https://www.rust-lang.org/
-[`Go`]:                  https://golang.org
-[`C#`]:                  https://docs.microsoft.com/en-us/dotnet/csharp/
-[`Vue`]:                 https://vuejs.org/
-[`React`]:               https://reactjs.org/
-[`Discord`]:             https://discord.com/
-[`pfp.lgbt`]:            https://pfp.lgbt/
-[`my repositories`]:     https://github.com/vladfrangu?tab=repositories
+[`TypeScript`]: https://www.typescriptlang.org/
+[`Node.js`]: https://nodejs.org/
+[`Java`]: https://www.java.com/
+[`Rust`]: https://www.rust-lang.org/
+[`Vue`]: https://vuejs.org/
+[`React`]: https://react.dev/
+[`my repositories`]: https://github.com/vladfrangu?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/stats-organization/github-stats-extended
-[Twitter]:               https://twitter.com/WolfgalVlad
-[Telegram]:              https://t.me/WolfgalVlad
+[Telegram]: https://t.me/WolfgalVlad
 
-<!--------------- Teams ----------------->
+<!--------------- PROJECTS ---------------->
 
-[`Auttaja`]:      https://github.com/auttaja
-[`Gay Geeks`]:    https://gaygeeks.gg/
-[`discord.js`]:   https://github.com/discordjs
-[`Sapphire`]:     https://github.com/sapphiredev
+[`discord.js`]: https://github.com/discordjs/discord.js
+[`Discord API Types`]: https://github.com/discordjs/discord-api-types
+[`Sapphire`]: https://github.com/sapphiredev/framework
+[`pfp.lgbt`]: https://pfp.lgbt/
+[`async_event_emitter`]: https://github.com/vladfrangu/async_event_emitter
+[`highlight`]: https://github.com/vladfrangu/highlight
