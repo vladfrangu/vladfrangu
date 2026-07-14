@@ -1,4 +1,4 @@
-# Hi there, I'm Vlad Frangu! 👋 <img src="https://komarev.com/ghpvc/?username=vladfrangu" alt="Profile views" align="center" />
+# Hi there, I'm Vlad Frangu! 👋
 
 I'm a backend-focused software engineer and open-source maintainer based in Romania. I spend most of my time building APIs, developer tooling, and libraries with [`TypeScript`] and [`Node.js`], occasionally reaching for [`React`] or [`Vue`] when a project needs a UI.
 
@@ -23,9 +23,9 @@ Today, my work is mostly centered around the Node.js ecosystem: designing reliab
 
 ## 📫 How to reach me
 
-- <img src="./assets/logo-gmail.png" align="center" alt="Email"> [me@vladfrangu.dev](mailto:me@vladfrangu.dev)
-- <img src="./assets/logo-discord.png" align="center" alt="Discord"> [`@vladdy`](https://discord.gg/2p4j75jM9W)
-- <img src="./assets/logo-telegram.png" align="center" alt="Telegram"> [`WolfgalVlad`][Telegram]
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/main/assets/logo-gmail.png" align="center" alt="Email"> [me@vladfrangu.dev](mailto:me@vladfrangu.dev)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/main/assets/logo-discord.png" align="center" alt="Discord"> [`@vladdy`](https://discord.gg/2p4j75jM9W)
+- <img src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/main/assets/logo-telegram.png" align="center" alt="Telegram"> [`WolfgalVlad`][Telegram]
 
 ## 🔭 Projects
 
@@ -46,17 +46,15 @@ A few projects and communities I spend time on:
 <table>
   <tr>
     <td align="center" style="padding: 0; width: 50%;">
-      <img align="center" style="padding: 0;" src="./profile/stats.svg" alt="Vlad's GitHub statistics" />
+      <img align="center" style="padding: 0;" src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/main/profile/stats.svg" alt="Vlad's GitHub statistics" />
     </td>
     <td align="center" style="padding: 0; width: 50%;">
-      <img align="center" style="padding: 0;" src="./profile/top-langs.svg" alt="Vlad's most used languages" />
+      <img align="center" style="padding: 0;" src="https://raw.githubusercontent.com/vladfrangu/vladfrangu/main/profile/top-langs.svg" alt="Vlad's most used languages" />
     </td>
   </tr>
 </table>
 
 > Provided by [`GitHub Readme Stats`].
-
-<!----------------- LINKS ----------------->
 
 [`TypeScript`]: https://www.typescriptlang.org/
 [`Node.js`]: https://nodejs.org/
@@ -67,8 +65,6 @@ A few projects and communities I spend time on:
 [`my repositories`]: https://github.com/vladfrangu?tab=repositories
 [`GitHub Readme Stats`]: https://github.com/stats-organization/github-stats-extended
 [Telegram]: https://t.me/WolfgalVlad
-
-<!--------------- PROJECTS ---------------->
 
 [`discord.js`]: https://github.com/discordjs/discord.js
 [`Discord API Types`]: https://github.com/discordjs/discord-api-types

@@ -1,0 +1,51 @@
+name: Update README stats
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-readme-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&include_all_commits=true&disable_animations=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          core_version: 2.1.3
+          path: profile/stats.svg
+          token: ${{ secrets.README_STATS_TOKEN || github.token }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=visual%20basic&disable_animations=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          core_version: 2.1.3
+          path: profile/top-langs.svg
+          token: ${{ secrets.README_STATS_TOKEN || github.token }}
+
+      - name: Commit updated cards
+        run: |
+          git add profile/*.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update README stats"
+          git push
