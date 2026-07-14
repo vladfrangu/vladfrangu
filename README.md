@@ -44,10 +44,10 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=vladfrangu&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="./profile/stats.svg" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img align="center" style="padding=0;" src="https://github-readme-stats.vladfrangu.vercel.app/api/top-langs/?username=vladfrangu&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
+      <img align="center" style="padding=0;" src="./profile/top-langs.svg" />
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@ Here's a quick run down of some of the projects I'm working on / some of the tea
 [`Discord`]:             https://discord.com/
 [`pfp.lgbt`]:            https://pfp.lgbt/
 [`my repositories`]:     https://github.com/vladfrangu?tab=repositories
-[`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
+[`GitHub Readme Stats`]: https://github.com/stats-organization/github-stats-extended
 [Twitter]:               https://twitter.com/WolfgalVlad
 [Telegram]:              https://t.me/WolfgalVlad
 
