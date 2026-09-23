@@ -2,6 +2,48 @@ import { readFileSync } from "node:fs";
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 
+type LanguageEdge = {
+  size: number;
+  node: { name: string; color: string | null } | null;
+};
+
+type Repository = {
+  nameWithOwner: string;
+  languages: { edges: (LanguageEdge | null)[] } | null;
+};
+
+type GraphQLResponse = {
+  data?: {
+    user?: {
+      repositories?: {
+        nodes: (Repository | null)[];
+        pageInfo: { hasNextPage: boolean; endCursor: string | null };
+      } | null;
+    } | null;
+  } | null;
+  errors?: { message: string }[];
+};
+
+type Language = {
+  name: string;
+  color: string | null;
+  size: number;
+  count: number;
+};
+
+type RenderTopLanguages = (
+  languages: Record<string, Language>,
+  options: {
+    layout: "compact";
+    title_color: string;
+    text_color: string;
+    bg_color: string;
+    hide_border: boolean;
+    hide: string[];
+    disable_animations: boolean;
+  },
+) => string;
+
 const username = process.env.GITHUB_REPOSITORY_OWNER || "vladfrangu";
 const token = process.argv.includes("--token-stdin")
   ? readFileSync(0, "utf8").trim()
@@ -41,9 +83,9 @@ const query = `
   }
 `;
 
-async function fetchRepositories() {
-  const repositories = [];
-  let cursor = null;
+async function fetchRepositories(): Promise<Repository[]> {
+  const repositories: Repository[] = [];
+  let cursor: string | null = null;
 
   while (true) {
     const response = await fetch("https://api.github.com/graphql", {
@@ -61,16 +103,18 @@ async function fetchRepositories() {
       throw new Error(`GitHub GraphQL request failed: HTTP ${response.status}`);
     }
 
-    const result = await response.json();
+    const result = (await response.json()) as GraphQLResponse;
     if (result.errors?.length) {
-      throw new Error(`GitHub GraphQL request failed: ${result.errors[0].message}`);
+      throw new Error(`GitHub GraphQL request failed: ${result.errors[0]?.message}`);
     }
 
     const connection = result.data?.user?.repositories;
     if (!connection?.nodes || !connection.pageInfo) {
       throw new Error("GitHub GraphQL returned no repositories");
     }
-    repositories.push(...connection.nodes.filter(Boolean));
+    repositories.push(
+      ...connection.nodes.filter((repo): repo is Repository => repo !== null),
+    );
 
     if (!connection.pageInfo.hasNextPage) break;
     const nextCursor = connection.pageInfo.endCursor;
@@ -87,7 +131,7 @@ const repositories = await fetchRepositories();
 if (repositories.length === 0) {
   throw new Error("GitHub returned no repositories");
 }
-const languages = new Map();
+const languages = new Map<string, Language>();
 let excludedByName = 0;
 let excludedForSolidity = 0;
 
@@ -96,19 +140,22 @@ for (const repo of repositories) {
     excludedByName++;
     continue;
   }
-  const edges = repo.languages?.edges?.filter(Boolean) || [];
+  const edges =
+    repo.languages?.edges?.filter(
+      (edge): edge is LanguageEdge => edge !== null,
+    ) ?? [];
   if (edges.some((edge) => edge.node?.name === "Solidity")) {
     excludedForSolidity++;
     continue;
   }
 
   for (const edge of edges) {
-    const name = edge.node?.name;
-    if (!name) continue;
-    const previous = languages.get(name);
-    languages.set(name, {
-      name,
-      color: edge.node.color,
+    const language = edge.node;
+    if (!language?.name) continue;
+    const previous = languages.get(language.name);
+    languages.set(language.name, {
+      name: language.name,
+      color: language.color,
       size: (previous?.size || 0) + edge.size,
       count: (previous?.count || 0) + 1,
     });
@@ -118,17 +165,17 @@ for (const repo of repositories) {
 if (languages.size === 0) {
   throw new Error("No languages found after repository filtering");
 }
-const topLanguages = Object.fromEntries(
+const topLanguages: Record<string, Language> = Object.fromEntries(
   [...languages.entries()].sort(([, a], [, b]) => b.size - a.size),
 );
 
 // The pinned package exports the API handler, so load its renderer directly.
-const { renderTopLanguages } = await import(
+const { renderTopLanguages } = (await import(
   new URL(
     "./cards/top-languages.js",
     import.meta.resolve("@stats-organization/github-readme-stats-core"),
-  )
-);
+  ).href
+)) as { renderTopLanguages: RenderTopLanguages };
 const svg = renderTopLanguages(topLanguages, {
   layout: "compact",
   title_color: "4F8CC9",

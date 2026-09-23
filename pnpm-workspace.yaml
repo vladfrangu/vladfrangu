@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - '@stats-organization/github-readme-stats-core@2.2.1'
