@@ -1,0 +1,22 @@
+{
+  "name": "vladfrangu-profile",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.20.0",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "generate:top-langs": "node scripts/generate-top-langs.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@octokit/core": "7.0.8",
+    "@octokit/plugin-paginate-graphql": "6.0.0",
+    "@stats-organization/github-readme-stats-core": "2.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "24.13.6",
+    "typescript": "7.0.2"
+  }
+}
