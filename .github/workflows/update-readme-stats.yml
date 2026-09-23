@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=visual%20basic&disable_animations=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR
+          options: username=${{ github.repository_owner }}&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=visual%20basic&disable_animations=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=Scammer-Bingo-FMX,Scammer-ToolBox,Scammer-Bingo-Plus
           core_version: 2.2.1
           fail_on_error: true
           path: profile/top-langs.svg
