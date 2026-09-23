@@ -30,15 +30,18 @@ jobs:
           path: profile/stats.svg
           token: ${{ secrets.README_STATS_TOKEN || github.token }}
 
-      - name: Generate top languages card
-        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+      - name: Set up Node.js for language card
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
         with:
-          card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&hide=visual%20basic&disable_animations=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&exclude_repo=Scammer-Bingo-FMX,Scammer-ToolBox,Scammer-Bingo-Plus
-          core_version: 2.2.1
-          fail_on_error: true
-          path: profile/top-langs.svg
-          token: ${{ secrets.README_STATS_TOKEN || github.token }}
+          node-version: 24
+
+      - name: Install language card renderer
+        run: npm ci --ignore-scripts --omit=dev
+
+      - name: Generate top languages card
+        run: npm run generate:top-langs
+        env:
+          GITHUB_TOKEN: ${{ secrets.README_STATS_TOKEN || github.token }}
 
       - name: Commit updated cards
         run: |

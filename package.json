@@ -1,0 +1,14 @@
+{
+  "name": "vladfrangu-profile",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "scripts": {
+    "generate:top-langs": "node scripts/generate-top-langs.mjs"
+  },
+  "dependencies": {
+    "@stats-organization/github-readme-stats-core": "2.2.1"
+  }
+}
