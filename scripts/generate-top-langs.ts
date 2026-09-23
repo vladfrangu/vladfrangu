@@ -1,6 +1,8 @@
 import { readFileSync } from "node:fs";
 import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { Octokit } from "@octokit/core";
+import { paginateGraphQL } from "@octokit/plugin-paginate-graphql";
 
 type LanguageEdge = {
   size: number;
@@ -13,15 +15,12 @@ type Repository = {
 };
 
 type GraphQLResponse = {
-  data?: {
-    user?: {
-      repositories?: {
-        nodes: (Repository | null)[];
-        pageInfo: { hasNextPage: boolean; endCursor: string | null };
-      } | null;
-    } | null;
+  user: {
+    repositories: {
+      nodes: (Repository | null)[];
+      pageInfo: { hasNextPage: boolean; endCursor: string | null };
+    };
   } | null;
-  errors?: { message: string }[];
 };
 
 type Language = {
@@ -83,51 +82,14 @@ const query = `
   }
 `;
 
-async function fetchRepositories(): Promise<Repository[]> {
-  const repositories: Repository[] = [];
-  let cursor: string | null = null;
-
-  while (true) {
-    const response = await fetch("https://api.github.com/graphql", {
-      method: "POST",
-      headers: {
-        Accept: "application/vnd.github+json",
-        Authorization: `Bearer ${token}`,
-        "Content-Type": "application/json",
-        "User-Agent": "vladfrangu-readme-stats",
-      },
-      body: JSON.stringify({ query, variables: { login: username, cursor } }),
-      signal: AbortSignal.timeout(30000),
-    });
-    if (!response.ok) {
-      throw new Error(`GitHub GraphQL request failed: HTTP ${response.status}`);
-    }
-
-    const result = (await response.json()) as GraphQLResponse;
-    if (result.errors?.length) {
-      throw new Error(`GitHub GraphQL request failed: ${result.errors[0]?.message}`);
-    }
-
-    const connection = result.data?.user?.repositories;
-    if (!connection?.nodes || !connection.pageInfo) {
-      throw new Error("GitHub GraphQL returned no repositories");
-    }
-    repositories.push(
-      ...connection.nodes.filter((repo): repo is Repository => repo !== null),
-    );
-
-    if (!connection.pageInfo.hasNextPage) break;
-    const nextCursor = connection.pageInfo.endCursor;
-    if (!nextCursor || nextCursor === cursor) {
-      throw new Error("GitHub GraphQL returned an invalid pagination cursor");
-    }
-    cursor = nextCursor;
-  }
-
-  return repositories;
-}
-
-const repositories = await fetchRepositories();
+const PaginatedOctokit = Octokit.plugin(paginateGraphQL);
+const octokit = new PaginatedOctokit({ auth: token });
+const result = await octokit.graphql.paginate<GraphQLResponse>(query, {
+  login: username,
+});
+const repositories = result.user?.repositories.nodes.filter(
+  (repo): repo is Repository => repo !== null,
+) ?? [];
 if (repositories.length === 0) {
   throw new Error("GitHub returned no repositories");
 }
