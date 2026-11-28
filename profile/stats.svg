@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Vlad Frangu&#39;s GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 34837, Total Commits  : 8044, Total PRs: 1694, Total Issues: 266, Contributed to (last year): 16</desc>
+        <desc id="descId">Total Stars Earned: 34835, Total Commits  : 8044, Total PRs: 1694, Total Issues: 266, Contributed to (last year): 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 0.7319009921813917;
+        stroke-dashoffset: 0.731907875791336;
       }
     }
   
